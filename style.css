@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200&display=swap');
 
 body{
-    font-family: 'Rubik Pixels', cursive; 
+    font-family: 'Chivo Mono', monospace;
 }
 
 .container{
-    border: 1px solid #333;
     width: 95%;
     height: 100vh;
     display: flex;
@@ -14,7 +13,6 @@ body{
 }
 
 .hex-colors{
-    border: 1px solid #333;
     text-align: center;
 }
 
@@ -25,7 +23,6 @@ body{
 }
 
 .hex-colors h2{
-    border: 1px solid #333;
     font-size: 2rem;
     margin-top: 15%;
 }
